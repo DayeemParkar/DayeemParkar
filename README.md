@@ -10,9 +10,9 @@
 
 [![Image Steganography Using an Edge Based Embedding Technique](https://github-readme-stats.vercel.app/api/pin/?username=DayeemParkar&repo=Image-Stegonagraphy-Using-an-Edge-Based-Embedding-Technique)](https://github.com/DayeemParkar/Image-Stegonagraphy-Using-an-Edge-Based-Embedding-Technique)
 
-[![Student Learning Companion](https://github-readme-stats.vercel.app/api/pin/?username=DayeemParkar&repo=StudentLearningCompanion&show_owner=true)](https://github.com/DayeemParkar/StudentLearningCompanion)
+[![Student Learning Companion](https://github-readme-stats.vercel.app/api/pin/?username=DayeemParkar&repo=StudentLearningCompanion)](https://github.com/DayeemParkar/StudentLearningCompanion)
 
-[![Data Leakage Detection Using a Probability Based Approach](https://github-readme-stats.vercel.app/api/pin/?username=DayeemParkar&repo=CSE3501ProjectDataLeakageDetection&show_owner=true)](https://github.com/DayeemParkar/CSE3501ProjectDataLeakageDetection)
+[![Data Leakage Detection Using a Probability Based Approach](https://github-readme-stats.vercel.app/api/pin/?username=DayeemParkar&repo=CSE3501ProjectDataLeakageDetection)](https://github.com/DayeemParkar/CSE3501ProjectDataLeakageDetection)
 
 ## Languages, Tools and Technologies  
 
