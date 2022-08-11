@@ -8,9 +8,7 @@
 
 ## Repos
 
-[![Image Steganography Using an Edge Based Embedding Technique](https://github-readme-stats.vercel.app/api/pin/?username=DayeemParkar&repo=Image-Stegonagraphy-Using-an-Edge-Based-Embedding-Technique&show_owner=true)](https://github.com/DayeemParkar/Image-Stegonagraphy-Using-an-Edge-Based-Embedding-Technique)
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=DayeemParkar&repo=Image-Stegonagraphy-Using-an-Edge-Based-Embedding-Technique&show_owner=true"/>
+[![Image Steganography Using an Edge Based Embedding Technique](https://github-readme-stats.vercel.app/api/pin/?username=DayeemParkar&repo=Image-Stegonagraphy-Using-an-Edge-Based-Embedding-Technique)](https://github.com/DayeemParkar/Image-Stegonagraphy-Using-an-Edge-Based-Embedding-Technique)
 
 [![Student Learning Companion](https://github-readme-stats.vercel.app/api/pin/?username=DayeemParkar&repo=StudentLearningCompanion&show_owner=true)](https://github.com/DayeemParkar/StudentLearningCompanion)
 
