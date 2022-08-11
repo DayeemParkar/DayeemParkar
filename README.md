@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Final+Year+student+at+VIT+Vellore.++++++++++)](https://git.io/typing-svg)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DayeemParkar&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DayeemParkar&show_icons=true&hide_border=true&theme=tokyonight&hide=contribs,issues,prs)
 
 ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=DayeemParkar&layout=compact)
 
@@ -9,6 +9,8 @@
 ## Repos
 
 [![Image Steganography Using an Edge Based Embedding Technique](https://github-readme-stats.vercel.app/api/pin/?username=DayeemParkar&repo=Image-Stegonagraphy-Using-an-Edge-Based-Embedding-Technique&show_owner=true)](https://github.com/DayeemParkar/Image-Stegonagraphy-Using-an-Edge-Based-Embedding-Technique)
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=DayeemParkar&repo=Image-Stegonagraphy-Using-an-Edge-Based-Embedding-Technique&show_owner=true"/>
 
 [![Student Learning Companion](https://github-readme-stats.vercel.app/api/pin/?username=DayeemParkar&repo=StudentLearningCompanion&show_owner=true)](https://github.com/DayeemParkar/StudentLearningCompanion)
 
