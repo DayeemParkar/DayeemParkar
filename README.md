@@ -2,9 +2,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DayeemParkar&show_icons=true&hide_border=true&theme=tokyonight&hide=contribs,issues,prs)
 
-![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=DayeemParkar&layout=compact)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shinokada&theme=neon-palenight&hide_border=true)
+
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=DayeemParkar&layout=compact)
 
 ## Repos
 
