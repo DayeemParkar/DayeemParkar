@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Final+Year+student+at+VIT+Vellore.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Software+Engineer+at+Bajaj+Markets++++++++++)](https://git.io/typing-svg)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DayeemParkar&show_icons=true&hide_border=true&theme=tokyonight&hide=contribs,issues,prs)
 
